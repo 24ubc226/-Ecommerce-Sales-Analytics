@@ -249,6 +249,19 @@ Ecommerce-Sales-Analytics/
 - Introduce sales forecasting.
 - Explore customer churn prediction.
 - Integrate additional machine learning techniques.
+- ## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](Screenshot/dashboard.png)
+
+### 2. Sales Analysis
+![Sales Analysis](Screenshot/sale.png)
+
+### 3. Customer & Payment Analysis
+![Customer and Payment Analysis](Screenshot/analy.png)
+
+### 4. Delivery & Operations Analysis
+![Delivery and Operations](Screenshot/delivery%20ana.png)
 
 ## 👩‍💻 Author
 
